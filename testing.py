@@ -1,0 +1,3 @@
+a = '👈'
+
+print(a.isupper())
